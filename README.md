@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Eliott Duhau!
 **Junior IT Professional & MSc Student @ Epitech Strasbourg**  
 📍 **Strasbourg, France** | 🇫🇷 🇩🇪 🇬🇧  
-[![Website Badge](https://img.shields.io/badge/Website-Visit-1f425f?style=flat&logo=google-chrome)](https://eliottduhau.github.io/Digital-Resume/)  
 💻 **Seeking an internship from January 2025**
+[![Website Badge](https://img.shields.io/badge/Website-Visit-1f425f?style=flat&logo=google-chrome)](https://eliottduhau.github.io/Digital-Resume/)  
 
 ---
 
