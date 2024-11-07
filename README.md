@@ -31,11 +31,6 @@ Some cool facts about me:
 
 ---
 
-### 📊 GitHub Stats
-![Eliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliottduhau&show_icons=true&theme=radical)
-
----
-
 ### 💬 Contact Me!
 - 📧 Email: [eliott.duhau@gmail.com](mailto:eliott.duhau@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eliottduhau)
